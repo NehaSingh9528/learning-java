@@ -1,3 +1,4 @@
-Array/.idea/
+.idea/
 out/
 *.class
+*.iml
