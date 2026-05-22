@@ -20,6 +20,9 @@ public class LaunchString2
         System.out.println(str.substring(0, 7)); //RajaRam
         System.out.println(str.substring(7)); //MohanRoy
 
+        //Method chaining
+        int l = str.toLowerCase().substring(6).length();
+        System.out.println(l); //output - 9
 
 
 
